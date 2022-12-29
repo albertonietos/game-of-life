@@ -1,7 +1,7 @@
 certifi==2022.12.7
 mkl-fft==1.0.15
 mkl-service==2.3.0
-numpy==1.16.6
+numpy==1.22.0
 pygame==1.9.2a0
 six==1.16.0
 wincertstore==0.2
